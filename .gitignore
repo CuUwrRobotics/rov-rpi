@@ -1,3 +1,10 @@
+# IDE and ROS/Catkin directories
+.vscode
+build/
+devel/
+
+src/CMakeLists.txt
+
 # Prerequisites
 *.d
 
